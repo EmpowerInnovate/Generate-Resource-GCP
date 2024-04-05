@@ -12,6 +12,8 @@ terraform apply -auto-approve
 
 ![Terraform Apply](/Screenshots/terraformApply.png)
 
+![run app](/Screenshots/runApp.png)
+
 - Now created this root location dir named `Generate-resource` then created `generate.tf` file which has a copy from our old main.tf file from concreteDetection/terraform and paste.
 - Now go to concreteDetection/terraform and run `terraform show` command so it will show you the configuration which you created in terraform apply command.
 - Now we've to give below commands in this root location to import that concreteDetection app's infra.
