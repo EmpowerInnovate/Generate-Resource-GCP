@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "concrete-detection-5",
+  "private_key_id": "b1fd6510b4294f145321210b0b23e41f067730b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVr7yF6FhKYl8D\nz0hw/BySJr+8VQYZ0B5U4IOd/2xNHl9LHbfuk2kTVg2Upzw/weWToYqkOqAGg11K\nESe/ctzEaJBNH7M5eFE8EbVWXABeMhHSvIFikLnLO9TEFyR3OhnCBfy8KulRBkwa\negveyAMt/ELPWQGiXANxV3W3iyut6EqwHA26g3WQ92JiKQED0zJSk9576xgmzCWE\np/llxV/VeHLT+GxdU4OjS7y3bqGQdqN8hD1qVmcIJXayCTkZ34Xa8F72sp3zoQZl\nHzqJVgIDhykdekNkLKwoWS+uG58/lYLYLQtcpyfJ9WY2W+o9bULNzhWMwULYsLU7\nJZSc7ExnAgMBAAECggEAF7XPifKE0buFS2gxFFyK9geXRXC+V6Zkt5McphFIiWqv\nM4nQkcTd1wdBfXOEEqFXCSyEdoEmygFS7KGNB0FdgOsDOIQ18nuBep9fdv95u3H4\n6sWbRQ6hr3SZvjngN9aHL/mcz/2IGaKCuYrtiGtsPYOA3bE+lgY3MWPmLJ2p3JD5\n54/IlmVHwR9Gk0F5nz/WoJsQDzdz5tUAAoYvK+Yr5TR11AxkeH+nUgPm6F42gg3R\nsf2XWDgIgfNG2d0uD5pgw+0ER5D6SAkDCXfHWtY65vEYQJYAk3EsHd2ozDve5hcN\nY74j3UzOUk1OZTy2N2A7q1TTlFzYU2vNytjVbm6CqQKBgQDQnM/D+zRwcWoP9VhY\nHRT2ftNHXjkv/yKEsU8FRO4HO5t4c7EWGdGgs38/8CE/7peCwLWL6R+1nXHSKk1P\nFUZlPXvO5b2sYnqhjnPdnB97H/h3928oIV8TmoReswqxiGUU8bTiZJ5FTBc2pzYd\n6E27tbNTDYOmEQK/+slZscc9SwKBgQC3sET10ssufliUrK8y1X59UHfAalOzeSSj\nbTlMELq+vDsnyb7zstifJ0EuuLmYLLOoXueK9xTKq2QxEQrnQud9O296RtVhy9v3\niBsUQwRTH1WZKXC0GGsDrZMnZL6I55lMXfxGk0FwwUx5hu7eQixAWqacfZpE9SZx\nksKQaOPH1QKBgAI4yVWzBTn1W0XUPR6jIKgHbcSi0kUamImFQewycb6N+ffsc4Ri\nvgLSJpbNvezqY5624rgcwYOzq5SrcqtW9Kr7XqgzdjOx0NCLrdw8X3F2Q7UzY3Gv\n+U1CJgrEKWb+puT0NhL7M1xVlSG14jOrV7iaFNDbof1QzRCyYRadeBvFAoGATqT2\ncXUlrqtDi6v/erkzZb2897HOUknsqNfLr0h+W8lFXnye98G7wzBQVQub0o5ZAR5Y\n7gNpcHg+9k8ApxDbAaAf029eTne0nt80ENG8mUYSJPg8G69Uqgd3uGcGuKDH3o1i\nxGipnPf1oRZnUNtuDMODD/8qvJllMz0NdjyiQV0CgYA402gvZKMra5j+8fdNB/Rx\nIN2FLuhgy77yU/zI9xeYltmYvgZNMElOISpR0mpoB6eEi4MS9rCLEnJ6VthTUAPJ\nvnDg9qaPQtwCTpGi0dntRh6kQYk3su30uHnNZxBEBXDc8LCuaVJ9aX9McNnA2i8d\nbzJcWOQrzIA2SBkG4pfwTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "helm-433@concrete-detection-5.iam.gserviceaccount.com",
+  "client_id": "107352022081327941208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/helm-433%40concrete-detection-5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
