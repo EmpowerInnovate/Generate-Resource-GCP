@@ -1,4 +1,4 @@
-# Reverse Generate Terraform [link](https://developer.hashicorp.com/terraform/language/import/generating-configuration)
+# Reverse Generate Terraform [link](https://www.youtube.com/watch?v=KzJsJHg3ftk)
 
 - First of all we need create infra using `terraform apply` command in our concreteDetection app and run the concreteDetection app.
 
